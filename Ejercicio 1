@@ -1,4 +1,6 @@
-# Ejemplo 1. Luego de procesar una fruta para obtener 50 kg pulpa, se midieron los grados °Brix de dicha pulpa, y se obtuvo una cantidad de sólidos disueltos (azúcar) de 7%, sin embargo, para mantener la calidad del producto, la empresa debe ajustar la pulpa hasta 10 °Brix. Para ello, se recomienda agregar una cantidad de azúcar adecuada. ¿Cuánta es la cantidad de azúcar que debemos agregar?
+# Ejemplo 1. Luego de procesar una fruta para obtener 50 kg pulpa, se midieron los grados °Brix de dicha pulpa, y se obtuvo una cantidad de sólidos 
+# disueltos (azúcar) de 7%, sin embargo, para mantener la calidad del producto, la empresa debe ajustar la pulpa hasta 10 °Brix. Para ello, 
+#se recomienda agregar una cantidad de azúcar adecuada. ¿Cuánta es la cantidad de azúcar que debemos agregar?
 
 m1 = 50
 x1 = 0.07
